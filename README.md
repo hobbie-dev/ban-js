@@ -1,5 +1,5 @@
 # Como usar?
-`1º` Mude o TOKEN do bot de `YOUR_TOKEN` para o token do seu bot no arquivo `.env`;<br>
+`1º` Mude o TOKEN no arquivo `.env` para o token de seu bot;<br>
 `2º` Abra a pasta de arquivos pelo Nodejs usando algum terminal auxiliar (cmd.exe se for Windows, por exemplo);<br>
 `3º` Instale as dependências digitando `npm i` no terminal;<br>
 `4º` Modifique o ID do BOT e do servidor em que o bot ficará hospedado no arquivo `index.js`, em `ban-js/src/index.js`;<br>
